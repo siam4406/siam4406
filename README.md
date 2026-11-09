@@ -8,8 +8,10 @@ I enjoy turning real-world business problems into useful digital products.
 
 ## 🚀 Projects
 
-### 1. NAZ PLC
+### 1. SIAM FACTORY ERP
 An Android application prototype designed for accounting and operational management in a plastic manufacturing business.
+
+[View Repository]https://github.com/siam4406/Siam-Factory-ERP
 
 ### 2. Waterapp
 A business accounting application developed to help manage day-to-day operations of a water business.
